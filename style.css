@@ -1,0 +1,34 @@
+body {
+	background-image: url(http://p1.pichost.me/i/5/1276706.jpg);
+    background-size: cover;
+
+}
+
+.jumbotron {
+	background-image: url(http://p1.pichost.me/i/5/1276706.jpg);
+	background-size: cover;
+	
+}
+
+.breadcrumb {
+	background-image: url(http://p1.pichost.me/i/5/1276706.jpg);
+	background-size: cover;
+	font-size: 16pt;
+}
+
+.jumbotron(p) {
+	font-size: 14pt;
+}
+
+body {
+  font-size: 16px;
+}
+
+.todo:hover, .todo.done {
+  cursor: pointer;
+  text-decoration: line-through;
+}
+
+#blog_area {
+	background-color: #B8E6E6;
+}

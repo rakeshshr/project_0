@@ -1,0 +1,1 @@
+This is a Microblog! webpage. where user can post their own blogs and can view other people's blog. It is very interactive web page where a user can post and save their blog at local storage.
