@@ -32,3 +32,6 @@ body {
 #blog_area {
 	background-color: #B8E6E6;
 }
+p {
+	color: red;
+}
